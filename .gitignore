@@ -4,4 +4,5 @@
 *.semihuge.jpg
 *.huge.jpg
 thumbnail-cache.json
+file-size-cache.json
 .DS_Store
